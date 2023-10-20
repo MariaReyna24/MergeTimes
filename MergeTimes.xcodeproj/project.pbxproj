@@ -14,6 +14,7 @@
 		A2BE2DDA2AE2B19300C3AF3C /* MergeTimesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2BE2DD92AE2B19300C3AF3C /* MergeTimesTests.swift */; };
 		A2BE2DE42AE2B19300C3AF3C /* MergeTimesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2BE2DE32AE2B19300C3AF3C /* MergeTimesUITests.swift */; };
 		A2BE2DE62AE2B19300C3AF3C /* MergeTimesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2BE2DE52AE2B19300C3AF3C /* MergeTimesUITestsLaunchTests.swift */; };
+		A2BE2DF32AE2B58600C3AF3C /* Oranges.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2BE2DF22AE2B58600C3AF3C /* Oranges.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		A2BE2DDF2AE2B19300C3AF3C /* MergeTimesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MergeTimesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2BE2DE32AE2B19300C3AF3C /* MergeTimesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTimesUITests.swift; sourceTree = "<group>"; };
 		A2BE2DE52AE2B19300C3AF3C /* MergeTimesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTimesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A2BE2DF22AE2B58600C3AF3C /* Oranges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Oranges.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				A2BE2DC82AE2B19200C3AF3C /* MergeTimesApp.swift */,
 				A2BE2DCA2AE2B19200C3AF3C /* ContentView.swift */,
+				A2BE2DF22AE2B58600C3AF3C /* Oranges.swift */,
 				A2BE2DCC2AE2B19300C3AF3C /* Assets.xcassets */,
 				A2BE2DCE2AE2B19300C3AF3C /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2BE2DF32AE2B58600C3AF3C /* Oranges.swift in Sources */,
 				A2BE2DCB2AE2B19200C3AF3C /* ContentView.swift in Sources */,
 				A2BE2DC92AE2B19200C3AF3C /* MergeTimesApp.swift in Sources */,
 			);
@@ -422,11 +426,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MergeTimes/Preview Content\"";
-
-				
-
 				DEVELOPMENT_TEAM = "";
-
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -455,11 +455,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MergeTimes/Preview Content\"";
-
-				
-
 				DEVELOPMENT_TEAM = "";
-
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;

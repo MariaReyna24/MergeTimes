@@ -422,7 +422,11 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MergeTimes/Preview Content\"";
-				DEVELOPMENT_TEAM = PU4JAM9L7Q;
+
+				
+
+				DEVELOPMENT_TEAM = "";
+
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -451,7 +455,11 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MergeTimes/Preview Content\"";
-				DEVELOPMENT_TEAM = PU4JAM9L7Q;
+
+				
+
+				DEVELOPMENT_TEAM = "";
+
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;

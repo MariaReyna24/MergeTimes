@@ -9,16 +9,11 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        ZStack{
-            Color.black
-                .ignoresSafeArea()
-            VStack {
-                Image(systemName: "star")
-                    .imageScale(.large)
-                    .foregroundStyle(.tint)
-                Text("Hello, world!")
-            }
-            .padding()
+        VStack {
+            Image(systemName: "crown")
+                .imageScale(.large)
+                .foregroundStyle(.green)
+            Text("Happy International Sloth Day!!")
         }
     }
 }
